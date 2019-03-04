@@ -1,0 +1,24 @@
+{
+    "name": "camry/dove-framework-stubs",
+    "description": "stubs for dove-framework",
+    "authors":
+    [
+        {
+            "name": "Camry Chen",
+            "email": "camry.chen@foxmail.com"
+        }
+    ],
+    "require-dev": {
+        "eaglewu/swoole-ide-helper": "dev-master"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "config": {
+        "secure-http": false,
+        "optimize-autoloader": true
+    }
+}
