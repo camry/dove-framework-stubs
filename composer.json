@@ -8,7 +8,7 @@
             "email": "camry.chen@foxmail.com"
         }
     ],
-    "require-dev": {
+    "require": {
         "eaglewu/swoole-ide-helper": "dev-master"
     },
     "repositories": {
