@@ -1,14 +1,13 @@
 {
     "name": "camry/dove-framework-stubs",
     "description": "stubs for dove-framework",
-    "authors":
-    [
+    "authors": [
         {
             "name": "Camry Chen",
             "email": "camry.chen@foxmail.com"
         }
     ],
-    "require": {
+    "require-dev": {
         "eaglewu/swoole-ide-helper": "dev-master"
     },
     "repositories": {
