@@ -1,6 +1,7 @@
 {
     "name": "camry/dove-framework-stubs",
     "description": "stubs for dove-framework",
+    "license": "MIT",
     "authors": [
         {
             "name": "Camry Chen",
